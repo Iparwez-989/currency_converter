@@ -1,4 +1,5 @@
 const base_URL ="https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
+// There is some issue with this API it is changed 
 
 
 const dropdowns= document.querySelectorAll('.dropdown select')
